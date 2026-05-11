@@ -12,4 +12,4 @@ The dashboard is mainly a tracking page for notifcations and latest statistics o
 
 ## World:
 
-The world page is basecaly a map page, dropped out with the help of react-mapbox-gl library.
+The world page is basically a map page, dropped in via the help of react-mapbox-gl library.
